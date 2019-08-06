@@ -4,6 +4,7 @@
     <externalId>false</externalId>
     <label>Category</label>
     <required>false</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
@@ -16,39 +17,39 @@
                 <label>Building Block Room</label>
             </value>
             <value>
-                <fullName>&lt;br&gt;Café&lt;br&gt;</fullName>
+                <fullName>Café</fullName>
                 <default>false</default>
-                <label>&lt;br&gt;Café&lt;br&gt;</label>
+                <label>Café</label>
             </value>
             <value>
-                <fullName>Cooking Classroom&lt;br&gt;</fullName>
+                <fullName>Cooking Classroom</fullName>
                 <default>false</default>
-                <label>Cooking Classroom&lt;br&gt;</label>
+                <label>Cooking Classroom</label>
             </value>
             <value>
-                <fullName>Drawing/Watercolor Studio&lt;br&gt;</fullName>
+                <fullName>Drawing/Watercolor Studio</fullName>
                 <default>false</default>
-                <label>Drawing/Watercolor Studio&lt;br&gt;</label>
+                <label>Drawing/Watercolor Studio</label>
             </value>
             <value>
-                <fullName>Exploration Lab&lt;br&gt;</fullName>
+                <fullName>Exploration Lab</fullName>
                 <default>false</default>
-                <label>Exploration Lab&lt;br&gt;</label>
+                <label>Exploration Lab</label>
             </value>
             <value>
-                <fullName>Game Room/Arcade&lt;br&gt;</fullName>
+                <fullName>Game Room/Arcade</fullName>
                 <default>false</default>
-                <label>Game Room/Arcade&lt;br&gt;</label>
+                <label>Game Room/Arcade</label>
             </value>
             <value>
-                <fullName>Music Room&lt;br&gt;</fullName>
+                <fullName>Music Room</fullName>
                 <default>false</default>
-                <label>Music Room&lt;br&gt;</label>
+                <label>Music Room</label>
             </value>
             <value>
-                <fullName>Sand Drawing Tables&lt;br&gt;</fullName>
+                <fullName>Sand Drawing Tables</fullName>
                 <default>false</default>
-                <label>Sand Drawing Tables&lt;br&gt;</label>
+                <label>Sand Drawing Tables</label>
             </value>
             <value>
                 <fullName>Temporary Terrace</fullName>
@@ -56,9 +57,9 @@
                 <label>Temporary Terrace</label>
             </value>
             <value>
-                <fullName>&lt;br&gt;Walking Meditation Paths</fullName>
+                <fullName>Walking Meditation Paths</fullName>
                 <default>false</default>
-                <label>&lt;br&gt;Walking Meditation Paths</label>
+                <label>Walking Meditation Paths</label>
             </value>
         </valueSetDefinition>
     </valueSet>

@@ -5,9 +5,10 @@
     <externalId>false</externalId>
     <label>Market</label>
     <referenceTo>Market__c</referenceTo>
-    <relationshipLabel>Reservation</relationshipLabel>
-    <relationshipName>Reservation</relationshipName>
+    <relationshipLabel>Reservations</relationshipLabel>
+    <relationshipName>Reservations</relationshipName>
     <required>false</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>
 </CustomField>

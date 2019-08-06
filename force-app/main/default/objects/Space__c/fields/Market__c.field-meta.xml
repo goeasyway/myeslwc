@@ -4,10 +4,10 @@
     <externalId>false</externalId>
     <label>Market</label>
     <referenceTo>Market__c</referenceTo>
-    <relationshipLabel>Space</relationshipLabel>
-    <relationshipName>Space</relationshipName>
+    <relationshipName>Spaces</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>MasterDetail</type>
     <writeRequiresMasterRead>false</writeRequiresMasterRead>
