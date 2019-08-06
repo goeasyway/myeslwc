@@ -2,7 +2,20 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/customerTile": [
+                "customerTile/customerTile.js"
+            ],
+            "c/customerList": [
+                "customerList/customerList.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/inlineMessage": [
+                "inlineMessage/inlineMessage.js"
+            ]
+        }
     },
     "include": [
         "**/*",
