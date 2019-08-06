@@ -44,6 +44,12 @@
             ],
             "c/pillList": [
                 "pillList/pillList.js"
+            ],
+            "c/spaceDesignForm": [
+                "spaceDesignForm/spaceDesignForm.js"
+            ],
+            "c/spaceDesigner": [
+                "spaceDesigner/spaceDesigner.js"
             ]
         }
     },
